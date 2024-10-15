@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FRAIOLIenzo
-- 👀 I’m interested in IT, astronomie and sport 
+- 👀 I’m interested in IT, astronomy and sport 
 - 🌱 I’m currently learning IT and programming 
 - 📫 Reach me on my email: enzo.fraioli@viacesi.fr
 
