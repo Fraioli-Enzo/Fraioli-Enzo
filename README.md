@@ -1,5 +1,19 @@
-# 💫 About Me:
-👋 Hi, I’m @FRAIOLIenzo<br>👀 I’m interested in IT, astronomy and sport<br>🌱 I’m currently learning IT and programming at CESI Engineering School in Nancy, France <br>📫 Reach me on my email: enzo.fraioli@viacesi.fr
+# 👋 Hello, I'm Enzo Fraioli
+
+## About Me
+I'm an aspiring IT professional and engineering student at CESI Engineering School in Nancy, France. My passion lies at the intersection of technology, astronomy, and sports.
+
+## 🎓 Education
+- Currently pursuing Engineering degree at CESI Engineering School, Nancy
+- Specializing in Information Technology and Programming
+
+## 💡 Interests
+- 💻 Information Technology & Software Development
+- 🔭 Astronomy & Space Science
+- 🏃‍♂️ Sports & Physical Fitness
+
+## 📫 Connect With Me
+- 📧 Email: enzo.fraioli@viacesi.fr
 
 
 ## 🌐 Socials:
