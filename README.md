@@ -1,11 +1,8 @@
 # 👋 Hello, I'm Enzo Fraioli
 
-## About Me
-I'm an aspiring IT professional and engineering student at CESI Engineering School in Nancy, France. My passion lies at the intersection of technology, astronomy, and sports.
-
 ## 🎓 Education
 - Currently pursuing Engineering degree at CESI Engineering School, Nancy
-- Specializing in Information Technology and Programming
+- Specializing in Computer Sciences
 
 ## 💡 Interests
 - 💻 Information Technology & Software Development
