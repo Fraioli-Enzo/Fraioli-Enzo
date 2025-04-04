@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Enzo Fraioli
+# 👋 Hi, I'm Enzo! 
 
 ## 🎓 Education
 - Currently pursuing Engineering degree at CESI Engineering School, Nancy
