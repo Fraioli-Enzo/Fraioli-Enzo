@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Enzo! 
 
 ## 🎓 Education
-- Currently pursuing Engineering degree at CESI Engineering School, Nancy
+- Currently pursuing Engineering degree at CESI École d'ingénieurs, Nancy, France
 - Specializing in Computer Sciences
 
 ## 💡 Interests
