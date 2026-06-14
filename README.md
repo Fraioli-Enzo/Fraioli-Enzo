@@ -33,15 +33,6 @@ I use a wide range of technologies to build scalable and efficient solutions:
 
 ---
 
-### 🏆 GitHub Stats
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fraioli-Enzo&theme=flat&column=4" alt="Fraioli-Enzo trophies" />
-  </a> 
-</p>
-
----
-
 ### 📫 Let's connect!
 - **LinkedIn:** [enzo-fraioli](https://linkedin.com/in/enzo-fraioli)
 - **Portfolio:** *Keep an eye on my repositories!*
